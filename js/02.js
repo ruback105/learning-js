@@ -1,4 +1,4 @@
-// arrays, objects, functions, variables
+// arrays, variables
 
 
 // Массив (array)

@@ -91,47 +91,6 @@
 //
 // Важно: сделай именно 1 цепочку if / else if / else.
 //
-//
-// Task 7. Function: canPay
-// 1. Напиши функцию canPay(money, prices)
-//    - money: number
-//    - prices: массив чисел (например [10, 20, 30])
-// 2. Функция должна:
-//    - посчитать сумму всех цен (можно без цикла: возьми ровно 4 товара, как в Task 1)
-//    - вернуть строку:
-//      - "You can pay." если money >= sum
-//      - иначе "Need X more eur"
-// 3. Вызови функцию 2 раза с разными данными и выведи результат в консоль.
-//
-// Подсказка (без цикла): если prices = [p1, p2, p3, p4], то sum = prices[0] + prices[1] + prices[2] + prices[3]
-//
-//
-// Task 8. Function: canBuyAlcohol
-// 1. Напиши функцию canBuyAlcohol(age)
-// 2. Внутри функции создай константы LEGAL_EU_AGE и LEGAL_USA_AGE.
-// 3. Функция должна вернуть одну из строк:
-//    - "ANYWHERE"
-//    - "USA"
-//    - "EU"
-//    - "NOWHERE"
-// 4. После этого, снаружи функции:
-//    - вызови canBuyAlcohol с 3 разными возрастами (например 16, 18, 21)
-//    - выведи результаты в консоль
-//
-// Дополнительно: попробуй сделать вывод более красивым:
-// "Age: 16 -> NOWHERE"
-//
-//
-// Task 9. Function: isEducationAccepted
-// 1. Напиши функцию isEducationAccepted(education, requirementList)
-//    - education: string
-//    - requirementList: массив строк
-// 2. Функция должна вернуть boolean:
-//    - true если requirementList.includes(education)
-//    - иначе false
-// 3. Проверь функцию на 3 примерах и выведи результаты.
-//
-//
 // Task 10 (Bonus). Combine everything (мини-кейс)
 // Представь, что компания нанимает кандидата, если:
 // - возраст >= 18

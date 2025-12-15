@@ -1,4 +1,4 @@
-// objects, functions
+// objects
 const array = ["Anastasija", "Mamedbekova - Pusko"];
 console.log(array[0], array[1])
 
@@ -41,5 +41,3 @@ const myCV = {
 console.log(myCV.education.high.batchelor.level)
 console.log(`${myCV.workExp[0].companyName}:${myCV.workExp[0].years}`)
 console.log(`${myCV.workExp[1].companyName}:${myCV.workExp[1].years}`)
-
-

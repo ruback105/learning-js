@@ -1,4 +1,4 @@
-// if-else, functions
+// if-else
 
 // && - AND
 // || - OR
